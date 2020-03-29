@@ -1,0 +1,2 @@
+help (package = "KernSmooth")
+copyr
